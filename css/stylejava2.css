@@ -1,0 +1,10 @@
+*{
+	font-family:arial
+}
+.well
+{
+    background-color:#EEE;
+	border:none;
+	padding:30px;
+    margin-bottom: 20px;
+}
